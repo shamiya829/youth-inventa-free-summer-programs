@@ -1,8 +1,7 @@
-# youth-inventa-free-summer-programs
+# Free Computer Science Summer Program for High School Students by Youth Inventa
+
 Youth Inventa's mission is to ensure that every student has access to resources about science despite their background. We aim to provide high school students who want to immerse themselves into scientific academics the opportunity to explore different topics and learn from leaders in the field. 
 
-
-# Free Computer Science Summer Program for High School Students by Youth Inventa
 
 [![Youth in Computer Science Summer Program](https://i.ytimg.com/an_webp/2nyylDfE6NI/mqdefault_6s.webp?du=3000&sqp=CLK52pEG&rs=AOn4CLABpb07fi-r4Dr6e99b3Ljw_gdmMw)](https://www.youtube.com/watch?v=2nyylDfE6NI)
 # Program Description
