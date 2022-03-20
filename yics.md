@@ -1,7 +1,6 @@
 # Free Computer Science Summer Program for High School Students
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2nyylDfE6NI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+https://youtube.com/embed/2nyylDfE6NI
 # Program Description
 
 Over two weeks of the summer camp, students enrolled in this program will be able to virtually meet computer scientists and professors from schools across the U.S. and learn from their experiences and expertise.
